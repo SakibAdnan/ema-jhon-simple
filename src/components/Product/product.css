@@ -1,0 +1,20 @@
+.product-title {
+    color: blue;
+  }
+.product-item {
+    display: flex;
+    padding: 5px;
+    margin-right: 5px;
+    border-bottom: 1px solid lightgray;
+  }
+.product-info {
+    margin-left: 15px;
+}
+.cart-btn {
+    background: #FFA504;
+    padding: 10px 40px;
+    border-color: #666;
+    font-size: 17px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
